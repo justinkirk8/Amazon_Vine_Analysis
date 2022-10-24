@@ -22,7 +22,7 @@ Client requested an analysis of Amazon reviews from the Video Games category. Sp
 
 ## Summary
 
-From the results of the requested analysis, there appears to be a positivity bias for reviews in the Vine Program due to the Vine program having 10% more 5-star reviews. However, this along does not provide much statistical weight. An additional analysis that could be done is a t-test to determine if there is a statistical difference between the distributions of star reviews between the Vine reviews and the non-Vine reviews. This shows that there is a significant difference between the distributions. 
+From the results of the requested analysis, there appears to be a positivity bias for reviews in the Vine Program due to the Vine program having 10% more 5-star reviews. However, this alone does not provide much statistical weight. An additional analysis that could be done is a t-test to determine if there is a statistical difference between the distributions of star reviews between the Vine reviews and the non-Vine reviews. This shows that there is a significant difference between the distributions. 
   
 <p align="center">
   <img src="https://github.com/justinkirk8/Amazon_Vine_Analysis/blob/main/images/t_test.png" width="700" />
